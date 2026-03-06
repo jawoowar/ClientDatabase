@@ -6,3 +6,5 @@ features of this app consist of
 - editing clients
 - sorting clients via columns
 - searching through client database
+
+to use this software a connection string will need to be added to the "database.cs" file on line 20
